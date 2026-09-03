@@ -172,7 +172,6 @@ The dataset used in this project is available on Kaggle:
 
 ---
 
----
 ## 💡 Key Takeaways
 
 The analysis demonstrates how sales data can be transformed into meaningful business information by combining:
